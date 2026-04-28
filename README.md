@@ -4,6 +4,9 @@ Built by Jason Nishio
 >Stroke is a leading cause of death and serious long-term disability, causing about 1 in 6 cardiovascular-related deaths. **1 in 4 adults over age 25 will have a stroke in their lifetime**. Someone in the world has a stroke every 40 seconds, and someone dies of a stroke every 3 minutes and 14 seconds. Roughly 7 million adults are concurrently living with stroke in the US. 
 >
 >This app allows people of any age group who possess their basic health information to predict their likeliness of getting a stroke in the future. This can help people understand their need to seek further professional medical advice, receive necessary steps to prevent it, and intervene early. With a user-friendly app that may be widely distributed, more people can be prepared to encounter a stroke and be informed of when to receive care. Early identification and intervention of stroke has been statistically proven to reduce mortality rates.
+>
+
+[See slides for more info!](https://github.com/jnnishio/Stroke-Prediction-App/blob/df36cbae821bf144ee9e768e0d05d176be4e3065/Predicting%20Stroke%20With%20Accessible%20Machine%20Learning%20Software%20Application%2002_05_2026.pdf) 
 
 ## How to Use:
 ### Pre-requisites/Installations
